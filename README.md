@@ -1,2 +1,2 @@
 # DataAnalysis Portfolio
-repository for portfolio
+repository for portfolio data analysis
